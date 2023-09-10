@@ -7,6 +7,7 @@ public class GitTest {
         System.out.println("测试 git test1");
         System.out.println("测试 git test2");
         System.out.println("测试 hot-fix");
+        System.out.println("测试 hot-fix 冲突提交");
     }
 
 }
