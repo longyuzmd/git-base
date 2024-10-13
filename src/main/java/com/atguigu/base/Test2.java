@@ -6,6 +6,6 @@ public class Test2 {
 
     @Test
     public void test(){
-        System.out.println("测试二");
+        System.out.println("测试二2222");
     }
 }
