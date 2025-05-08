@@ -13,5 +13,6 @@ public class Test2 {
     public void test1(){
         System.out.println("测试四");
         System.out.println("测试回滚问题");
+        System.out.println("测试增加合并代码");
     }
 }
