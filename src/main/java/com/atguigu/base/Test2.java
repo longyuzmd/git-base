@@ -8,6 +8,7 @@ public class Test2 {
     public void test(){
         System.out.println("测试二");
         System.out.println("拉取feature_20250508分支代码");
+        System.out.println("3333333");
     }
 
     @Test
